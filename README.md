@@ -17,7 +17,7 @@ The app follows an **MVC structure** and saves translations into a JSON file.
 ## How to run
 1. Clone the repository:
 ```bash
-   git clone https://github.com/<your-username>/MorseTranslator.git
+   git clone https://github.com/Fejanos/MorseTranslator.git
    cd MorseTranslator
 ```
 2. Run the app:
