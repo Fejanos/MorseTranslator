@@ -59,8 +59,7 @@ Example:
   { "Letter": "B", "Morse": "-..." },
   { "Letter": "C", "Morse": "-.-." },
   { "Letter": "D", "Morse": "-.." },
-  { "Letter": "E", "Morse": "." },
-  ...
+  { "Letter": "E", "Morse": "." }
 ]
 ```
 
