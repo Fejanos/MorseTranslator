@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\morze1\bin\Debug\net9.0\morze1.exe
+C:\Users\adria\Desktop\morze1\bin\Debug\net9.0\morze1.deps.json
+C:\Users\adria\Desktop\morze1\bin\Debug\net9.0\morze1.runtimeconfig.json
+C:\Users\adria\Desktop\morze1\bin\Debug\net9.0\morze1.dll
+C:\Users\adria\Desktop\morze1\bin\Debug\net9.0\morze1.pdb
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.AssemblyInfo.cs
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.dll
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\refint\morze1.dll
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.pdb
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\morze1.genruntimeconfig.cache
+C:\Users\adria\Desktop\morze1\obj\Debug\net9.0\ref\morze1.dll
